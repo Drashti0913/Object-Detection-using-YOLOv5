@@ -1,6 +1,3 @@
-# Object-Detection
-
-
 
 # Object Detection with YOLOv5
 
